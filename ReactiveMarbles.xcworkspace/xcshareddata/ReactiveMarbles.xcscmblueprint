@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 0,
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7AF4EBDB-6E09-4543-8DDB-09D3DD5E9B20",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "ReactiveMarbles\/Carthage\/Checkouts\/ReactiveCocoa\/",
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "ReactiveMarbles\/Carthage\/Checkouts\/Result\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ReactiveMarbles",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ReactiveMarbles.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReactiveCocoa\/ReactiveCocoa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    }
+  ]
+}
