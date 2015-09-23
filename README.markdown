@@ -7,9 +7,10 @@
 ### Getting Started:
 
 1. Clone or download the repo
-2. Run `carthage checkout`, or `git submodule init`
-3. Build the 'ReactiveMarbles-OSX' scheme
-4. Open one of the Playground pages, show the Assistant Editor, and choose 'Timeline'.
+2. Run `carthage checkout`, or `git submodule init && git submodule update`
+3. Open the workspace (not the playground!)
+4. Build the 'ReactiveMarbles-OSX' scheme
+5. Open one of the Playground pages, show the Assistant Editor (and choose 'Timeline' if necessary).
 
 ### TODO/Known Issues:
 
@@ -17,4 +18,6 @@
 * The private XCPlayground.framework is bundled in the repository. This may not work with different versions of Xcode (currently built for Xcode 7)
 * The frame rate is pretty awful on slower Macs. 
 
-I’m also **not** a seasoned ReactiveCocoa expert, and some of this code may be incorrect/misleading/non-idiomatic/crap. I’d gratefully appreciate corrections and/or PRs. There’s probably more work that can be done in the Playground support to make it a bit more useful & natural to experiment with.
+I’m also **not** a seasoned ReactiveCocoa expert, and some of this code may be incorrect/misleading/non-idiomatic/crap. I’d gratefully appreciate corrections and/or PRs. There’s probably also more work that can be done in the Playground support to make it a bit more useful & natural to experiment with.
+
+Licensed under the terms of the [ISC license](http://opensource.org/licenses/ISC).
