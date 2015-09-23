@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' requires-full-environment='true' display-mode='rendered'>
+    <pages>
+        <page name='Intro'/>
+        <page name='filter'/>
+        <page name='skip'/>
+        <page name='skipRepeats'/>
+        <page name='delay'/>
+        <page name='throttle'/>
+        <page name='map'/>
+        <page name='merge'/>
+        <page name='concat'/>
+        <page name='combineLatest'/>
+        <page name='zip'/>
+        <page name='sampleOn'/>
+    </pages>
+</playground>

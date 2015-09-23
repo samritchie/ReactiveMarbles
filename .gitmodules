@@ -1,0 +1,2 @@
+[submodule "Carthage/Checkouts/Result"]
+	url = https://github.com/antitypical/Result.git
