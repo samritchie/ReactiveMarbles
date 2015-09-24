@@ -5,7 +5,7 @@ import ReactiveMarbles
 //: Delays all events by a given interval
 
 let source = marbleSignalProducer(marbleSignal(colour: .Random))
-let delayed = source.delay(1.5.seconds, onScheduler:QueueScheduler(queue: dispatch_get_main_queue()))
+let delayed = source.delay(1.5.seconds, onScheduler:QueueScheduler.mainQueueScheduler)
 display("Source", source)
 display("Delayed", delayed)
 
